@@ -28,12 +28,18 @@
 **log return**
 
 > K-means分群
+> 
 > 根據 log return做分群
+> 
 > ![](img/001.png)
+> 
 > 分五群結果如下
+> 
 > ![](img/002.png)![](img/003.png)
 > ![](img/004.png)![](img/005.png)![](img/006.png)
+> 
 > ![](img/007.png)
+> 
 > 可以分成五種波形，但無法直接對應到樂觀、相對樂觀、持平、相對悲觀、悲觀
 
 > **SOPR** (Spent Output Profit Ratio)
