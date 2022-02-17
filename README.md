@@ -276,28 +276,29 @@ TCN以168出1的結論的結果也不理想，在近4週的預測中相關係數
 >
 >一個預估特徵值，另一個推估目標價格
 
-1) 預測結果分析若用皮爾森函數評估，應將價格轉為simple return    
-1) 訓練模組可以調整更多參數(optimizer、 losses)，以及做更多評估才能更客觀有利的比較模組優劣。  
+> 預測結果分析若用皮爾森函數評估，應將價格轉為simple return    
+>
+> 訓練模組可以調整更多參數(optimizer、 losses)，以及做更多評估才能更客觀有利的比較模組優劣。  
 
 
-資料來源
+### 資料來源
 
 * Binance
 
-<https://www.cryptodatadownload.com/data/binance/>
+  <https://www.cryptodatadownload.com/data/binance/>
 
-<https://www.binance.com/en/futures/funding-history/1>
+  <https://www.binance.com/en/futures/funding-history/1>
 
 * Glassnode
 
-免費帳號限制多，大多數據皆須付費，顆粒度更細的資料也需付費
+  免費帳號限制多，大多數據皆須付費，顆粒度更細的資料也需付費
 
-[https://studio.glassnode.com/](https://studio.glassnode.com/metrics?a=BTC&category=Market%20Indicators&m=indicators.Sopr&s=1577836800&u=1637539199&zoom=)
+  [https://studio.glassnode.com/](https://studio.glassnode.com/metrics?a=BTC&category=Market%20Indicators&m=indicators.Sopr&s=1577836800&u=1637539199&zoom=)
 
 * Google Trend
 
-Pytrends 套件
+  Pytrends 套件
 
-<https://github.com/GeneralMills/pytrends>
+  <https://github.com/GeneralMills/pytrends>
 
 
