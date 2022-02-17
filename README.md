@@ -4,7 +4,7 @@
 **大綱**
 
 * 收集資料
-> k-means
+   * k-means
 * 準備數據
 * 選擇模型
 > LSTM & TCN
